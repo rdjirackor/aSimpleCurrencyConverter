@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class curConverter {
-    //your code goes here
+    
     static double convertToCedi(double dollar){
         return 11.50*dollar;
     }
