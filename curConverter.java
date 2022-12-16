@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class curConverter {
     
     static double convertToCedi(double dollar){
-        return 11.50*dollar;
+        return 12.10*dollar;
     }
     static double convertToNaira(double dollar){
-        return 445.31*dollar;
+        return 445.47*dollar;
     }
     
     public static void main(String[] args) {
